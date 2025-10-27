@@ -1,5 +1,0 @@
-{
-  "name": "AI Content Factory",
-  "description": "An advanced AI content generation tool that allows users to create specialized content. It features prompt engineering controls, a simulated fine-tuning process, and a Retrieval-Augmented Generation (RAG) system to generate context-aware articles based on a knowledge base.",
-  "requestFramePermissions": []
-}
